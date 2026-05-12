@@ -171,10 +171,11 @@ The AI assistant automatically:
 ```text
 📁 Architecture
 📁 Dashboard Screenshots
+📁 Datasets
 📁 Python ETL Scripts
 📁 SQL Scripts
-📁 Streamlit AI Assistant
 📁 Snowflake Integration
+📁 Streamlit AI Assistant
 📁 Final Report
 README.md
 ```
