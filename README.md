@@ -162,7 +162,7 @@ The AI assistant automatically:
 
 # 🏗️ Architecture Design
 
-![Architecture Diagram](Architecture/architecture.png)
+![Architecture Diagram](Architecture/Architecture.jpg)
 
 ---
 
