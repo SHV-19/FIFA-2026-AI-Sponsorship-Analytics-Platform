@@ -1,13 +1,13 @@
-# FIFA-WC-2026-Sponsorship-Research
-
-#⚽ FIFA 2026 AI Sponsorship Analytics Platform
+# ⚽ FIFA 2026 AI Sponsorship Analytics Platform
 
 ### Author: Swapnil Herwadkar
 
 ### Tech Stack:
 Python • Snowflake • SQL • Power BI • Streamlit • OpenAI GPT • Pandas
+
 ---
-3🔍 Overview
+
+# 🔍 Overview
 
 This project presents an end-to-end AI-powered sponsorship analytics ecosystem designed for FIFA World Cup 2026 business intelligence and strategic market analysis.
 
@@ -21,7 +21,7 @@ The objective of the project was to simulate a modern enterprise-grade analytics
 
 ---
 
-🎯 Business Objectives
+# 🎯 Business Objectives
 
 - Analyze FIFA sponsorship revenue across global regions and markets
 - Identify high-opportunity sponsorship markets
@@ -32,9 +32,9 @@ The objective of the project was to simulate a modern enterprise-grade analytics
 
 ---
 
-#🛠️ Core Technologies & Workflow
+# 🛠️ Core Technologies & Workflow
 
-  ##🐍 Python ETL Pipeline
+## 🐍 Python ETL Pipeline
 - Multi-format dataset ingestion (CSV, XLSX, JSON)
 - Data cleaning and preprocessing
 - Schema standardization
@@ -174,6 +174,7 @@ The AI assistant automatically:
 📁 Python ETL Scripts
 📁 SQL Scripts
 📁 Streamlit AI Assistant
+📁 Snowflake Integration
 📁 Final Report
 README.md
 ```
